@@ -1,1 +1,5 @@
-# -
+1、成功运行需要clickshow和python环境
+2、先打开clickshow后运行gui.py
+3、target_screenshot和screen_screenshot需要解压到和gui.py同目录下才可正常使用（若解压后不在target_screenshot文件夹中则需要自行创建同名文件夹再将内容放进去）
+4、screen_screenshot为空，主要用来保存屏幕截图
+5、需要强制停止程序时只需把鼠标移到屏幕最左上角数秒即可
